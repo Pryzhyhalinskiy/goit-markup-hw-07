@@ -1385,6 +1385,7 @@ li.menu-item-strategy:last-child {
     column-gap: 24px;
     align-content: stretch;
     flex-direction: column;
+    align-items: center;
     /* justify-content: center;
     align-items: center; */
 }
